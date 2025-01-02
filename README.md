@@ -73,6 +73,7 @@ A simple Icy Tower clone implemented in C++ using legacy OpenGL, featuring a bou
    - Add a scoreboard
 
 ## Tips for Modifications
+- You have to make sure that freeglut and glew are installed and linked
 - Most constants are defined at the top of each class
 - Physics values can be found in the Player class
 - Visual elements are primarily in Draw() methods
